@@ -1,15 +1,15 @@
-vCard - Personal Portfolio
+Clovis Lechien
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Clovis Lechien
+Clovis Lechien
+ML Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+clovis.lechien@epita.fr
 
 Phone
 +1 (213) 352-2795
@@ -18,7 +18,7 @@ Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Paris, Île-de-France, France
 
 # navbar
 
@@ -32,30 +32,29 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a Machine Learning Research Engineer from Paris, France, with a strong foundation in multimodality, deep learning, computer vision, and natural language processing. I enjoy turning complex, real-world challenges into robust and efficient AI-powered solutions.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+My work involves the end-to-end development of intelligent systems, from data engineering and model architecture to optimization and deployment. My aim is to leverage state-of-the-art research to build models that can understand and interact with the world in more nuanced ways. I have had the opportunity to lead research and development on cutting-edge multimodal AI projects.
 
 ## service
 
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Multimodal AI Models
+Designing and implementing advanced models that process and fuse multiple data streams (Text, Audio, Vision) to solve complex tasks like emotion recognition.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Data Engineering & Pipelines
+Creating robust data pipelines, from large-scale scraping and cleaning to building custom, high-quality datasets for training state-of-the-art models.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+MLOps & Optimization
+Deploying and optimizing deep learning models for resource-constrained environments, using techniques like PEFT/LoRA and quantization for efficient training and inference.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Applied AI Research
+Conducting in-depth research on state-of-the-art techniques, analyzing their applicability, and implementing novel frameworks to push the boundaries of what's possible.
 
 
 ## testimonials
