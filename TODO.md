@@ -2,10 +2,9 @@
 
 1. Instagram account
 2. Image sizes
-
+2. Contact mail
 
 # Not done
 
-1. Portfolio Subpart
-2. Blog Subpart
-3. Contact Subpart
+1. Blog Subpart
+2. Contact Subpart
