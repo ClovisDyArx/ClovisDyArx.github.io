@@ -112,7 +112,27 @@
 }
 
 
+/*ADD-ON by Clovis Lechien*/
+.cv-embed p {
+  color: var(--white-1);
+  text-align: center;
+  margin-top: 20px;
+}
 
+.cv-embed p a {
+  color: var(--eerie-black-1);
+  background-color: var(--orange-yellow-crayola);
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.cv-embed p a:hover {
+  background-color: hsl(45, 100%, 65%);
+}
+/*ADD-ON by Clovis Lechien*/
 
 
 /*-----------------------------------*\
